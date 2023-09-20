@@ -8,4 +8,4 @@ Defintion of Done:
 Display product information - product classification - packaging into management folder.
 Owner : nguyễn Thanh Phúc
 Iteration: Unsheduled
-Estimate: 5 Points
+Estimate: 5 Points 
